@@ -1,3 +1,18 @@
+Petunjuk jalankan project saya yang menggunakan laravel
+1. Download project yang ada di repositori ini 
+2. Setelah dijalankan, lakukan perintah di command promp yaitu "composer update"
+3. Kemudian, jalankan project dengan perintah "php artisan serve"
+4. Setelah project berjalan, pastikan DBMS yang saya pakai seperti mysql sudah dan storage di redis sudah diaktifkan agar data dapat di consume.
+5. Kemudian, lakukan migration database dengan perintah "php artisan migrate"
+6. Setelah itu lakukan input dummy untuk memastikan database dapat digunakan dengan perintah "php artisan db:seed"
+7. Setelah dijalankan , lakukan testing api dengan mengikuti dokumentasi postman yang ada di bawah.
+https://documenter.getpostman.com/view/7099617/UVRHghuu
+6. Demikian proses untuk instalasi. Jika ada yang ingin ditanyakan atau mengalami keluhan selama instalasi boleh hubungi saya 
+    lewat email di sitanggang761@gmail.com
+ 
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
